@@ -29,6 +29,6 @@ ANDA HARUS MERUBAH PURGE.PY ['blacklist'] <<<<<<< NEED CHANGE
 </p>
 
 ##EXAMPLE
-``` 
-DESKTOPMAC\t5.21.3\tMAC\t10.15"
+```python
+self.app = "DESKTOPMAC\t5.21.3\tMAC\t10.15"
 ```
