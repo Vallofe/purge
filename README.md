@@ -23,7 +23,7 @@ if text == "purge":
 - TO == MSG.TO
     <br />
 - SELF.SETTINGS == TEMPAT BERADANYA BLACKLIST, JIKA NAMA BLACKLIST ANDA DI DALAM JSON BUKAN BLACKLIST MAKAN
-ANDA HARUS MERUBAH PURGE.PY (['blacklist']) <<<<<<< NEED CHANGE
+ANDA HARUS MERUBAH PURGE.PY ['blacklist'] <<<<<<< NEED CHANGE
                                                        <br />
 - SELF.APP == APPNAME LOGIN BOT ANDA
 </p>
