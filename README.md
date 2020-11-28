@@ -6,7 +6,6 @@ NEED node_modules IN ROOT
 TARO DUAL.JS DI DALAM FOLDER ROOT
 DAN MASUKAN COMMAND KE SC ANDA:
 
-####################
 
 ```
 import purge
@@ -15,7 +14,7 @@ if text == "purge":
     threading.Thread(target=purge.dualmode, args=(self.client,to,self.settings,self.app)).start()
 ```
 
-####################
+
 ATTENTION:
 
 SELF.CLIENT == CLIENT LOGIN ANDA
