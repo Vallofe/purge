@@ -1,12 +1,12 @@
-#purge
-```
-pip3 install Naked
-```
 # ATTENTION:
 <p>NEED node_modules IN ROOT
 TARO DUAL.JS DI DALAM FOLDER ROOT
 DAN MASUKAN COMMAND KE SC ANDA</p>
 
+
+```
+pip3 install Naked
+```
 
 ```
 import purge
