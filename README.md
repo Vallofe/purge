@@ -1,5 +1,7 @@
 #purge
 
+pip3 install Naked
+
 NEED node_modules IN ROOT
 TARO DUAL.JS DI DALAM FOLDER ROOT
 DAN MASUKAN COMMAND KE SC ANDA:
