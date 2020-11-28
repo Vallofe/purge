@@ -22,6 +22,7 @@ def dualmode(client,to,stats,app):
         cms += " uik={}".format(y)
     client.sendMessage(to, "Please wait...")
     print(cms)
+    success = execute_js(cms)
     if success:
         client.sendMessage(to, "Execute success")
     else:
