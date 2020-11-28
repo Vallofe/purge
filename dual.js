@@ -36,7 +36,7 @@ function setTHttpClient(options) {
 setTHttpClient(options={
     protocol: thrift.TCompactProtocol,
     transport: thrift.TBufferedTransport,
-    headers: {'User-Agent':'Line/8.9.0','X-Line-Application':app,'X-Line-Access':token},
+    headers: {'User-Agent':'Line/2017.0731.2132 CFNetwork/758.6 Darwin/15.0.0','X-Line-Application':app,'X-Line-Access':token},
     path: '/S4',
     https: true
     });
